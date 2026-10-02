@@ -69,16 +69,16 @@ I completed the full dual-office version and verified the major features end-to-
 ## Screenshots
 
 ### Topology
-![Topology](./screenshots/topology.png)
+![Topology](./screenshots/Topology.png)
 
 ### EtherChannel
-![EtherChannel](./screenshots/etherchannel.png)
+![EtherChannel](./screenshots/EtherChannel%20layer%202.png)
 
 ### HSRP
-![HSRP](./screenshots/hsrp.png)
+![HSRP](./screenshots/HSRP.png)
 
 ### OSPF Neighbors
-![OSPF](./screenshots/ospf-neighbors.png)
+![OSPF Neighbors](./screenshots/OSPF%20Neighbors.png)
 
 ### Port Security
-![Port Security](./screenshots/port-security.png)
+![Port Security](./screenshots/Port%20Security.png)
