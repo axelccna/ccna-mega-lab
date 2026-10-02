@@ -65,3 +65,20 @@ I completed the full dual-office version and verified the major features end-to-
 ---
 
 *Lab completed as part of CCNA studies.*
+
+## Screenshots
+
+### Topology
+![Topology](./screenshots/topology.png)
+
+### EtherChannel
+![EtherChannel](./screenshots/etherchannel.png)
+
+### HSRP
+![HSRP](./screenshots/hsrp.png)
+
+### OSPF Neighbors
+![OSPF](./screenshots/ospf-neighbors.png)
+
+### Port Security
+![Port Security](./screenshots/port-security.png)
