@@ -1,4 +1,4 @@
-# CCNA Mega Lab – Three-Tier Dual-Office Network
+# CCNA  – Three-Tier Office Network
 
 Completed configuration of **Jeremy’s IT Lab CCNA Mega Lab** (full dual-office, three-tier topology).
 
